@@ -1,5 +1,5 @@
 ### Hey hey hey, nice to see you here 👋
-[hristo.dev](https://hristo.dev/) / [hi@hristo.dev](hi@hristo.dev)
+*[hristo.dev](https://hristo.dev/) / [hi@hristo.dev](mailto:hi@hristo.dev)*
 ```js
 /*
  ___  ___  ________  ___  ________  _________  ________      ________  _______   ___      ___ 
