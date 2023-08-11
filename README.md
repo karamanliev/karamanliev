@@ -2,10 +2,9 @@
 
 ---
 
-I'm Hristo, a frontend developer from <img src="./assets/bg-flag.svg" width="14"/> Bulgaria.
+I'm **Hristo**, a _frontend developer_ from <img src="./assets/bg-flag.svg" width="14"/> **Bulgaria**.
 
-<img src="./assets/web.svg" width="13"/> [hristo.dev](https://hristo.dev/) / <img src="./assets/linkedin.svg" width="13"/> [linkedIn](https://www.linkedin.com/in/hristokaramanliev/)
-/ <img src="./assets/mail.svg" width="13"/> [hi@hristo.dev](mailto:hi@hristo.dev)
+_<img src="./assets/web.svg" width="13"/> [hristo.dev](https://hristo.dev/) / <img src="./assets/mail.svg" width="13"/> [hi@hristo.dev](mailto:hi@hristo.dev) / <img src="./assets/linkedin.svg" width="13"/> [linkedIn](https://www.linkedin.com/in/hristokaramanliev/) / <img src="./assets/telegram.svg" width="13"/> [telegram](https://t.me/karamanliev)_
 
 ```ts
 /*
