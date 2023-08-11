@@ -2,9 +2,10 @@
 
 ---
 
-I'm Hristo, a frontend developer from <img src="https://raw.githubusercontent.com/karamanliev/karamanliev/ddccee2c0dbb575de5eca5316b9c3bf8c03f6346/assets/bg-flag.svg" width="14"/> Bulgaria.
+I'm Hristo, a frontend developer from <img src="./assets/bg-flag.svg" width="14"/> Bulgaria.
 
-_[hristo.dev](https://hristo.dev/) / [hi@hristo.dev](mailto:hi@hristo.dev)_
+<img src="./assets/web.svg" width="13"/> [hristo.dev](https://hristo.dev/) / <img src="./assets/linkedin.svg" width="13"/> [linkedIn](https://www.linkedin.com/in/hristokaramanliev/)
+/ <img src="./assets/mail.svg" width="13"/> [hi@hristo.dev](mailto:hi@hristo.dev)
 
 ```ts
 /*
